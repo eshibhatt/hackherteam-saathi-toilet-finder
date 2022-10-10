@@ -1,4 +1,4 @@
-# Azure Women’s Hackathon 2022
+# <h1 align="center">Azure Women’s Hackathon 2022</h1>
 
 **Team Name**- HackHerTeam
 
@@ -6,11 +6,11 @@
 - Dayita Chaudhuri
 - Shagun Tripathi
 - Eshita Bhattacharjee
-- Rakshita Srivastava
+- Rakshita 
 
 **Institute** - National Institute of Technology, Agartala
 
-# SAATHI - A Friend In Need
+<h1 align="center"> SAATHI - A Friend In Need</h1>
 
 ![1](https://user-images.githubusercontent.com/77076578/174490732-890ed491-7484-48cd-a858-4bec6351d1f2.jpg)
 
@@ -52,22 +52,24 @@ Washrooms that maintain a very high user rating will be featured in the top of o
 3. Evidence of rountine maintenance
 
 
+
 ## For the User
+```diff
+Step 1 - Locate Washrooms near you and compare their ratings.
 
-**Step 1** - Locate Washrooms near you and compare their ratings.
+Step 2 - Choose the washroom you want to use and find directions to it, based on your current location or the location of your choice.
 
-**Step 2** - Choose the washroom you want to use and find directions to it, based on your current location or the location of your choice.
-
-**Step 3** - Rate the service before you leave.
-
+Step 3 - Rate the service before you leave.
+```
 
 ## For SAATHI Service Partners
+```diff
+Step 1 - Register yourself with us.
 
-**Step 1** - Register yourself with us.
+Step 2 - Provide your location, contact details and latest images of the washroom facilities (images can also be uploaded in reviews by users).
 
-**Step 2** - Provide your location, contact details and latest images of the washroom facilities (images can also be uploaded in reviews by users).
-
-**Step 3** - Maintain the cleanliness and hygiene of your establishment to keep attracting more customers.
+Step 3 - Maintain the cleanliness and hygiene of your establishment to keep attracting more customers.
+```
 
 ## Web Application Demo Design
 
@@ -81,17 +83,24 @@ Washrooms that maintain a very high user rating will be featured in the top of o
 
 
 ## Our Tech Stack - 
-
+```diff
 1. UI/UX DESIGN - Figma
 2. Website Frontend - ReactJS Framework
 3. Website Backend - Django Web Framework
 4. Database Management - SQL
 5. Cloud Hosting - Azure Cloud Services
 6. Version Control - Git
-7. API Usage - Map API to locate and find directions to chosen toilet location
+7. API Usage - Azure Maps API to locate and find directions to chosen toilet location
+```
+
+
+## Our Tech Stack - 
+```
+1. Azure Cloud Services
+2. Azure SQL
+3. Azure Maps API
+```
 
 ![9](https://user-images.githubusercontent.com/77076578/174490890-430f3171-f2f7-4dab-b197-d3f8321b11d0.jpg)
 ![10](https://user-images.githubusercontent.com/77076578/174490901-f4d3fa9a-3155-4be6-815e-ba3981a06abc.jpg)
-![12](https://user-images.githubusercontent.com/77076578/174579888-44900628-4b80-4303-b48a-7149e34cb2d0.jpg)
-
-
+![HackHerTeam Presentation](https://user-images.githubusercontent.com/77076578/174640732-eb8123a7-5ec9-420a-afb9-e71ebfe3a85c.png)
